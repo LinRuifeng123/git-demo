@@ -13,3 +13,6 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 git stash
+1111
+2222
+3333
